@@ -85,3 +85,8 @@ ul a:hover{
     font-size: 26px;
   }
 }
+footer .col-md-4{
+	display: flex !important;
+	justify-content: center !important;
+}
+
